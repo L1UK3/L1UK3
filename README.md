@@ -52,6 +52,12 @@ My personal developer portfolio showcasing web development projects, credentials
 - **Stack:** Next.js 16, React 19, Tailwind CSS v4, and TypeScript.
   - References: [package.json](https://github.com/L1UK3/Portfolio/blob/main/portfolio/package.json)
 
+### 🔬 [Spectrophotometer-Output-Visualiser](https://github.com/L1UK3/Spectrophotometer-Output-Visualiser)
+A web-based tool for visualising and analysing output data from a spectrophotometer.
+[Github pages link](https://l1uk3.github.io/Spectrophotometer-Output-Visualiser/)
+- **Stack:** JavaScript.
+  - References: [index.html](https://github.com/L1UK3/Spectrophotometer-Output-Visualiser/blob/main/index.html)
+
 ---
 
 ## 🔬 Core Engineering Foundations
