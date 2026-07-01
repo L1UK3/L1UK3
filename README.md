@@ -7,17 +7,25 @@ Hey! I'm Luke, a Computer Science student at Swansea University and an aspiring 
 ## 🛠️ Tech Stack & Tools
 
 ### Frontend
-- **Frameworks & Libraries:** Next.js (v16), React (v19), TypeScript, Vite (v8)
-- **Styling:** Tailwind CSS (v4)
-- **Routing & Fetching:** TanStack Router, TanStack Query
-- **3D Graphics & Maps:** Three.js, Google Maps API
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62B)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TanStack Router](https://img.shields.io/badge/TanStack_Router-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
+![Google Maps API](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
 
 ### Backend & Databases
-- **Web Frameworks:** FastAPI
-- **Authentication:** Clerk Auth
-- **BaaS & Databases:** Supabase
-- **Package Management:** `uv` (Python >= 3.14)
-- **Languages:** TypeScript, JavaScript, Python, Java
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Clerk Auth](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![uv](https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
@@ -52,6 +60,12 @@ My personal developer portfolio showcasing web development projects, credentials
 ---
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/L1UK3/L1UK3/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/L1UK3/L1UK3/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/L1UK3/L1UK3/output/github-contribution-grid-snake.svg">
+  </picture>
+  <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=L1UK3&theme=nord&hide_border=true" alt="Luke's GitHub Streak" />
 </div>
 
