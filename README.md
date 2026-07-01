@@ -23,4 +23,4 @@ I am currently participating in the International Quant championships with a tea
 ## Connect with me
 
 * **LinkedIn:** [Luke Enness](https://www.linkedin.com/in/luke-enness)
-* **Blog/Portfolio:** [L1UK3.dev](https://L1UK3.github.io)
+* **Blog/Portfolio:** [enness.dev](https://enness.dev)
