@@ -1,0 +1,23 @@
+{
+  "frontend": [
+    { "name": "Next.js", "logo": "next.js", "color": "black", "logoColor": "white" },
+    { "name": "React", "logo": "react", "color": "20232A", "logoColor": "61DAFB" },
+    { "name": "TypeScript", "logo": "typescript", "color": "007ACC", "logoColor": "white" },
+    { "name": "Vite", "logo": "vite", "color": "B73BFE", "logoColor": "FFD62B" },
+    { "name": "Tailwind CSS", "logo": "tailwind-css", "color": "38B2AC", "logoColor": "white" },
+    { "name": "TanStack Router", "logo": "react-query", "color": "FF4154", "logoColor": "white" },
+    { "name": "TanStack Query", "logo": "react-query", "color": "FF4154", "logoColor": "white" },
+    { "name": "Three.js", "logo": "three.js", "color": "black", "logoColor": "white" },
+    { "name": "Google Maps API", "logo": "google-maps", "color": "4285F4", "logoColor": "white" }
+  ],
+  "backend": [
+    { "name": "FastAPI", "logo": "fastapi", "color": "009688", "logoColor": "white" },
+    { "name": "Clerk Auth", "logo": "clerk", "color": "6C47FF", "logoColor": "white" },
+    { "name": "Supabase", "logo": "supabase", "color": "3ECF8E", "logoColor": "white" },
+    { "name": "uv", "logo": "python", "color": "DE5FE9", "logoColor": "white" },
+    { "name": "TypeScript", "logo": "typescript", "color": "007ACC", "logoColor": "white" },
+    { "name": "JavaScript", "logo": "javascript", "color": "F7DF1E", "logoColor": "black" },
+    { "name": "Python", "logo": "python", "color": "3776AB", "logoColor": "white" },
+    { "name": "Java", "logo": "openjdk", "color": "ED8B00", "logoColor": "white" }
+  ]
+}
