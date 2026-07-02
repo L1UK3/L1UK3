@@ -36,7 +36,7 @@ Hey! I'm Luke, a Computer Science student at Swansea University and an aspiring 
 ## 📂 Highlighted Projects
 
 ### 🗺️ [playwales](https://playsouthwales.uk)
-An interactive, full-stack tournament pairings and league scheduling application for South Wales TCG leagues.
+An interactive, full-stack league scheduling application for South Wales TCG leagues.
 - **Frontend:** React 19, Vite 8, TanStack Router & Query, Three.js (3D graphics), Google Maps API, and Clerk.
   - References: [package.json](https://github.com/L1UK3/playwales/blob/main/frontend/package.json)
 - **Backend:** Python (>= 3.14), FastAPI, Supabase, Clerk Backend API, managed with `uv`.
