@@ -4,7 +4,7 @@ Hey! I'm Luke, a Computer Science student at Swansea University and an aspiring 
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 ### Frontend
 <!-- FRONTEND_BADGES_START -->
@@ -33,21 +33,21 @@ Hey! I'm Luke, a Computer Science student at Swansea University and an aspiring 
 
 ---
 
-## 📂 Highlighted Projects
+## Highlighted Projects
 
-### 🗺️ [playwales](https://playsouthwales.uk)
+### [playwales](https://playsouthwales.uk)
 An interactive, full-stack league scheduling application for South Wales TCG leagues.
 - **Frontend:** React 19, Vite 8, TanStack Router & Query, Three.js (3D graphics), Google Maps API, and Clerk.
   - References: [package.json](https://github.com/L1UK3/playwales/blob/main/frontend/package.json)
 - **Backend:** Python (>= 3.14), FastAPI, Supabase, Clerk Backend API, managed with `uv`.
   - References: [pyproject.toml](https://github.com/L1UK3/playwales/blob/main/backend/pyproject.toml)
 
-### 🏆 [BetterPairings](https://github.com/L1UK3/BetterPairings)
+### [BetterPairings](https://github.com/L1UK3/BetterPairings)
 A Next.js implementation of a Swiss tournament pairings app for TCGs using the Edmonds-Blossom algorithm.
 - **Stack:** Next.js, React, TypeScript.
   - References: [README.md](https://github.com/L1UK3/BetterPairings/blob/main/README.md)
     
-### 🔬 [Spectrophotometer-Output-Visualiser](https://github.com/L1UK3/Spectrophotometer-Output-Visualiser)
+### [Spectrophotometer-Output-Visualiser](https://github.com/L1UK3/Spectrophotometer-Output-Visualiser)
 A web-based tool for visualising and analysing output data from a spectrophotometer.
 [Github pages link](https://l1uk3.github.io/Spectrophotometer-Output-Visualiser/)
 - **Stack:** JavaScript.
@@ -55,7 +55,7 @@ A web-based tool for visualising and analysing output data from a spectrophotome
 
 ---
 
-## 🔬 Core Engineering Foundations
+## Core Engineering Foundations
 
 - **Concurrency:** Multithreaded Java application implementing coordinating modules for file processing and concurrent task execution.
   - References: [Main.java](https://github.com/L1UK3/Concurrency-Coursework/blob/main/Main.java)
@@ -76,7 +76,7 @@ A web-based tool for visualising and analysing output data from a spectrophotome
 
 ---
 
-## 📬 Connect with me
+## Connect with me
 
 * **LinkedIn:** [Luke Enness](https://www.linkedin.com/in/luke-enness)
 * **Blog/Portfolio:** [enness.dev](https://enness.dev)
