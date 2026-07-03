@@ -46,12 +46,7 @@ An interactive, full-stack league scheduling application for South Wales TCG lea
 A Next.js implementation of a Swiss tournament pairings app for TCGs using the Edmonds-Blossom algorithm.
 - **Stack:** Next.js, React, TypeScript.
   - References: [README.md](https://github.com/L1UK3/BetterPairings/blob/main/README.md)
-
-### 💻 [portfolio](https://github.com/L1UK3/Portfolio)
-My personal developer portfolio showcasing web development projects, credentials, and achievements.
-- **Stack:** Next.js 16, React 19, Tailwind CSS v4, and TypeScript.
-  - References: [package.json](https://github.com/L1UK3/Portfolio/blob/main/portfolio/package.json)
-
+    
 ### 🔬 [Spectrophotometer-Output-Visualiser](https://github.com/L1UK3/Spectrophotometer-Output-Visualiser)
 A web-based tool for visualising and analysing output data from a spectrophotometer.
 [Github pages link](https://l1uk3.github.io/Spectrophotometer-Output-Visualiser/)
