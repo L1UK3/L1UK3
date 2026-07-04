@@ -8,16 +8,27 @@
     { "name": "TanStack Router", "logo": "react-query", "color": "FF4154", "logoColor": "white" },
     { "name": "TanStack Query", "logo": "react-query", "color": "FF4154", "logoColor": "white" },
     { "name": "Three.js", "logo": "three.js", "color": "black", "logoColor": "white" },
-    { "name": "Google Maps API", "logo": "google-maps", "color": "4285F4", "logoColor": "white" }
+    { "name": "Google Maps API", "logo": "google-maps", "color": "4285F4", "logoColor": "white" },
+    { "name": "JavaFX", "logo": "openjdk", "color": "FF7300", "logoColor": "white" }
   ],
   "backend": [
     { "name": "FastAPI", "logo": "fastapi", "color": "009688", "logoColor": "white" },
+    { "name": "Flask", "logo": "flask", "color": "000000", "logoColor": "white" },
     { "name": "Clerk Auth", "logo": "clerk", "color": "6C47FF", "logoColor": "white" },
     { "name": "Supabase", "logo": "supabase", "color": "3ECF8E", "logoColor": "white" },
     { "name": "uv", "logo": "python", "color": "DE5FE9", "logoColor": "white" },
     { "name": "TypeScript", "logo": "typescript", "color": "007ACC", "logoColor": "white" },
     { "name": "JavaScript", "logo": "javascript", "color": "F7DF1E", "logoColor": "black" },
     { "name": "Python", "logo": "python", "color": "3776AB", "logoColor": "white" },
-    { "name": "Java", "logo": "openjdk", "color": "ED8B00", "logoColor": "white" }
+    { "name": "Java", "logo": "openjdk", "color": "ED8B00", "logoColor": "white" },
+    { "name": "Discord API", "logo": "discord", "color": "5865F2", "logoColor": "white" }
+  ],
+  "devops": [
+    { "name": "Git", "logo": "git", "color": "F05032", "logoColor": "white" },
+    { "name": "GitHub Actions", "logo": "github-actions", "color": "2088FF", "logoColor": "white" },
+    { "name": "Docker", "logo": "docker", "color": "2496ED", "logoColor": "white" },
+    { "name": "Vercel", "logo": "vercel", "color": "000000", "logoColor": "white" },
+    { "name": "Render", "logo": "render", "color": "46E3B7", "logoColor": "black" },
+    { "name": "Pytest", "logo": "pytest", "color": "0A9EDC", "logoColor": "white" }
   ]
 }

@@ -29,6 +29,7 @@ try {
   // Generate markdown blocks
   const frontendBadges = generateBadges(techStack.frontend || []);
   const backendBadges = generateBadges(techStack.backend || []);
+  const devopsBadges = generateBadges(techStack.devops || []);
 
   // Read README.md
   let readmeContent = fs.readFileSync(readmePath, 'utf8');
@@ -48,6 +49,7 @@ try {
 
   readmeContent = replaceBlock(readmeContent, '<!-- FRONTEND_BADGES_START -->', '<!-- FRONTEND_BADGES_END -->', frontendBadges);
   readmeContent = replaceBlock(readmeContent, '<!-- BACKEND_BADGES_START -->', '<!-- BACKEND_BADGES_END -->', backendBadges);
+  readmeContent = replaceBlock(readmeContent, '<!-- DEVOPS_BADGES_START -->', '<!-- DEVOPS_BADGES_END -->', devopsBadges);
 
   // Save README.md
   fs.writeFileSync(readmePath, readmeContent, 'utf8');

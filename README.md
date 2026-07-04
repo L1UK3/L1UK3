@@ -17,11 +17,13 @@ Hey! I'm Luke, a Computer Science student at Swansea University and an aspiring 
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Google Maps API](https://img.shields.io/badge/Google%20Maps%20API-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-FF7300?style=for-the-badge&logo=openjdk&logoColor=white)
 <!-- FRONTEND_BADGES_END -->
 
 ### Backend & Databases
 <!-- BACKEND_BADGES_START -->
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Clerk Auth](https://img.shields.io/badge/Clerk%20Auth-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![uv](https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=python&logoColor=white)
@@ -29,7 +31,18 @@ Hey! I'm Luke, a Computer Science student at Swansea University and an aspiring 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Discord API](https://img.shields.io/badge/Discord%20API-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 <!-- BACKEND_BADGES_END -->
+
+### DevOps, Tools & Testing
+<!-- DEVOPS_BADGES_START -->
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+<!-- DEVOPS_BADGES_END -->
 
 ---
 
@@ -46,12 +59,22 @@ An interactive, full-stack league scheduling application for South Wales TCG lea
 A Next.js implementation of a Swiss tournament pairings app for TCGs using the Edmonds-Blossom algorithm.
 - **Stack:** Next.js, React, TypeScript.
   - References: [README.md](https://github.com/L1UK3/BetterPairings/blob/main/README.md)
-    
+
 ### [Spectrophotometer-Output-Visualiser](https://github.com/L1UK3/Spectrophotometer-Output-Visualiser)
 A web-based tool for visualising and analysing output data from a spectrophotometer.
 [Github pages link](https://l1uk3.github.io/Spectrophotometer-Output-Visualiser/)
 - **Stack:** JavaScript.
   - References: [index.html](https://github.com/L1UK3/Spectrophotometer-Output-Visualiser/blob/main/index.html)
+
+---
+
+## Open Source Contributions
+
+### [OpenSRE](https://github.com/Tracer-Cloud/opensre)
+An open-source framework for building, testing, and evaluating AI SRE agents.
+- **Contributions:** Refactored the core agent harness, corrected module paths across investigation tools, and aligned testing harness modules in Python.
+- **Stack:** Python, Pytest, Docker, GitHub Actions, Ruff, mypy.
+  - References: [Repository](https://github.com/Tracer-Cloud/opensre)
 
 ---
 
