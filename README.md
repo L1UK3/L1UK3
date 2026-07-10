@@ -48,8 +48,6 @@ Hey! I'm Luke, a Computer Science student at Swansea University and an aspiring 
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/L1UK3/L1UK3/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/L1UK3/L1UK3/output/github-contribution-grid-snake.svg">
   </picture>
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=L1UK3&theme=nord&hide_border=true" alt="Luke's GitHub Streak" />
 </div>
 
 
