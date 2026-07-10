@@ -1,6 +1,6 @@
 # Hi there! I'm Luke Enness 👋
 
-Hey! I'm Luke, a Computer Science student at Swansea University and an aspiring **full-stack web developer**. I enjoy building fast, practical web apps that solve real-world problems, such as scheduling competitive TCG leagues or making Swiss tournament pairing apps. I'm all about clean code, fast and efficient backend REST APIs, and frontend UIs that are fast, responsive, user-friendly and professional.
+Hey! I'm Luke, a Computer Science student at Swansea University and an aspiring **full-stack web developer**. I enjoy building fast, practical web apps that solve real-world problems, such as scheduling competitive TCG leagues or making Swiss tournament pairing apps.
 
 ---
 
@@ -46,47 +46,6 @@ Hey! I'm Luke, a Computer Science student at Swansea University and an aspiring 
 
 ---
 
-## Highlighted Projects
-
-### [playwales](https://playsouthwales.uk)
-An interactive, full-stack league scheduling application for South Wales TCG leagues.
-- **Frontend:** React 19, Vite 8, TanStack Router & Query, Three.js (3D graphics), Google Maps API, and Clerk.
-  - References: [package.json](https://github.com/L1UK3/playwales/blob/main/frontend/package.json)
-- **Backend:** Python (>= 3.14), FastAPI, Supabase, Clerk Backend API, managed with `uv`.
-  - References: [pyproject.toml](https://github.com/L1UK3/playwales/blob/main/backend/pyproject.toml)
-
-### [BetterPairings](https://github.com/L1UK3/BetterPairings)
-A Next.js implementation of a Swiss tournament pairings app for TCGs using the Edmonds-Blossom algorithm.
-- **Stack:** Next.js, React, TypeScript.
-  - References: [README.md](https://github.com/L1UK3/BetterPairings/blob/main/README.md)
-
-### [Spectrophotometer-Output-Visualiser](https://github.com/L1UK3/Spectrophotometer-Output-Visualiser)
-A web-based tool for visualising and analysing output data from a spectrophotometer.
-[Github pages link](https://l1uk3.github.io/Spectrophotometer-Output-Visualiser/)
-- **Stack:** JavaScript.
-  - References: [index.html](https://github.com/L1UK3/Spectrophotometer-Output-Visualiser/blob/main/index.html)
-
----
-
-## Open Source Contributions
-
-### [OpenSRE](https://github.com/Tracer-Cloud/opensre)
-An open-source framework for building, testing, and evaluating AI SRE agents.
-- **Contributions:** Refactored the core agent harness, corrected module paths across investigation tools, and aligned testing harness modules in Python.
-- **Stack:** Python, Pytest, Docker, GitHub Actions, Ruff, mypy.
-  - References: [Repository](https://github.com/Tracer-Cloud/opensre)
-
----
-
-## Core Engineering Foundations
-
-- **Concurrency:** Multithreaded Java application implementing coordinating modules for file processing and concurrent task execution.
-  - References: [Main.java](https://github.com/L1UK3/Concurrency-Coursework/blob/main/Main.java)
-- **Visual Computing (JavaFX):** Coursework focusing on 3D volume rendering, Maximum Intensity Projection (MIP), and VR rendering using JavaFX.
-  - References: [README.md](https://github.com/L1UK3/VisualComputing/blob/main/README.md)
-
----
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/L1UK3/L1UK3/output/github-contribution-grid-snake-dark.svg">
@@ -96,12 +55,5 @@ An open-source framework for building, testing, and evaluating AI SRE agents.
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=L1UK3&theme=nord&hide_border=true" alt="Luke's GitHub Streak" />
 </div>
-
----
-
-## Connect with me
-
-* **LinkedIn:** [Luke Enness](https://www.linkedin.com/in/luke-enness)
-* **Blog/Portfolio:** [enness.dev](https://enness.dev)
 
 
