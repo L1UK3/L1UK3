@@ -1,7 +1,3 @@
-# Hi there! I'm Luke Enness 👋
-
-Hey! I'm Luke, a Computer Science student at Swansea University and an aspiring **full-stack web developer**. I enjoy building fast, practical web apps that solve real-world problems, such as scheduling competitive TCG leagues or making Swiss tournament pairing apps.
-
 ## Tech Stack & Tools
 
 ### Frontend
