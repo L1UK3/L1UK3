@@ -1,3 +1,13 @@
+## Projects
+
+| Activity | Project Name | Description | Relevant links |
+|:------:|:------------:|:-----------:|:-------------:|
+| :green_square: <br> `Looking for contributors` | Play! South Wales | An interactive, full-stack league scheduling application for South Wales leagues. | [Repo](https://github.com/L1UK3/playsouthwales), [Webapp](https://www.playsouthwales.uk/) |
+| :green_square: <br> `Currently competing` | PTCG AI Battle Challenge Simulation | Enhance the performance of an AI Training Agent with the Pokémon Trading Card Game | [Competitiion Link](https://www.kaggle.com/competitions/pokemon-tcg-ai-battle/), <br> `Repo will be made public upon submission` |
+| :green_square: | Better Pairings | An implementation of a swiss tournament pairings app for TCGs using the edmonds-blossom algorithm. | [Repo](https://github.com/L1UK3/betterpairings) |
+| :red_square: | Spectrophotometer Output Visualiser | Web-based tool for analyzing and viewing data from a spectrophotometer. | [Repo](https://github.com/L1UK3/spectrophotometer-output-visualiser), [Webapp](https://spectrophotometer-output-visualiser.vercel.app) |
+| :red_square: | CT Head Scan Viewer | JavaFX project that uses visual computing algorithms to view a computed tomography scan of a patient's head. | [Repo](https://github.com/L1UK3/cthead-scan) |
+
 ## Tech Stack & Tools
 
 ### Frontend
