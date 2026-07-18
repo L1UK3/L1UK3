@@ -39,7 +39,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Discord API](https://img.shields.io/badge/Discord%20API-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E11D48?style=for-the-badge&logo=pydantic&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white)
 <!-- BACKEND_BADGES_END -->
 
 ### DevOps, Tools & Testing
