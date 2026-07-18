@@ -9,7 +9,10 @@
     { "name": "TanStack Query", "logo": "react-query", "color": "FF4154", "logoColor": "white" },
     { "name": "Three.js", "logo": "three.js", "color": "black", "logoColor": "white" },
     { "name": "Google Maps API", "logo": "google-maps", "color": "4285F4", "logoColor": "white" },
-    { "name": "JavaFX", "logo": "openjdk", "color": "FF7300", "logoColor": "white" }
+    { "name": "JavaFX", "logo": "openjdk", "color": "FF7300", "logoColor": "white" },
+    { "name": "React Native", "logo": "react", "color": "20232A", "logoColor": "61DAFB" },
+    { "name": "Streamlit", "logo": "streamlit", "color": "FF4B4B", "logoColor": "white" },
+    { "name": "Plotly", "logo": "plotly", "color": "3F4F75", "logoColor": "white" }
   ],
   "backend": [
     { "name": "FastAPI", "logo": "fastapi", "color": "009688", "logoColor": "white" },
@@ -21,7 +24,8 @@
     { "name": "JavaScript", "logo": "javascript", "color": "F7DF1E", "logoColor": "black" },
     { "name": "Python", "logo": "python", "color": "3776AB", "logoColor": "white" },
     { "name": "Java", "logo": "openjdk", "color": "ED8B00", "logoColor": "white" },
-    { "name": "Discord API", "logo": "discord", "color": "5865F2", "logoColor": "white" }
+    { "name": "Discord API", "logo": "discord", "color": "5865F2", "logoColor": "white" },
+    { "name": "Pydantic", "logo": "pydantic", "color": "E11D48", "logoColor": "white" },
   ],
   "devops": [
     { "name": "Git", "logo": "git", "color": "F05032", "logoColor": "white" },
@@ -29,6 +33,10 @@
     { "name": "Docker", "logo": "docker", "color": "2496ED", "logoColor": "white" },
     { "name": "Vercel", "logo": "vercel", "color": "000000", "logoColor": "white" },
     { "name": "Render", "logo": "render", "color": "46E3B7", "logoColor": "black" },
-    { "name": "Pytest", "logo": "pytest", "color": "0A9EDC", "logoColor": "white" }
+    { "name": "Pytest", "logo": "pytest", "color": "0A9EDC", "logoColor": "white" },
+    { "name": "Playwright", "logo": "playwright", "color": "2EAD33", "logoColor": "white" },
+    { "name": "Ruff", "logo": "ruff", "color": "FD244C", "logoColor": "white" },
+    { "name": "Jupyter", "logo": "jupyter", "color": "F37626", "logoColor": "white" },
+    { "name": "pnpm", "logo": "pnpm", "color": "F69220", "logoColor": "white" }
   ]
 }
