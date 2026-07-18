@@ -4,7 +4,7 @@
 |:------:|:------------:|:-----------:|:-------------:|
 | :green_square: <br> `Looking for contributors` | Play! South Wales | An interactive, full-stack league scheduling application for South Wales leagues. | [Repo](https://github.com/L1UK3/playsouthwales), [Webapp](https://www.playsouthwales.uk/) |
 | :green_square: <br> `Currently competing` | PTCG AI Battle Challenge Simulation | Enhance the performance of an AI Training Agent with the Pokémon Trading Card Game | [Competitiion Link](https://www.kaggle.com/competitions/pokemon-tcg-ai-battle/), <br> `Repo will be made public upon submission` |
-| :green_square: | Better Pairings | An implementation of a swiss tournament pairings app for TCGs using the edmonds-blossom algorithm. | [Repo](https://github.com/L1UK3/betterpairings) |
+| :green_square: | Better Pairings | An implementation of a swiss tournament pairings app for TCGs | [Repo](https://github.com/L1UK3/betterpairings) |
 
 
 ## Tech Stack & Tools
