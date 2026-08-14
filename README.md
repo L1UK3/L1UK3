@@ -3,8 +3,9 @@
 | Activity | Project Name | Description | Relevant links |
 |:------:|:------------:|:-----------:|:-------------:|
 | :green_square: <br> `Looking for contributors` | Play! South Wales | An interactive, full-stack league scheduling application for South Wales leagues. | [Repo](https://github.com/L1UK3/playsouthwales), [Webapp](https://www.playsouthwales.uk/) |
-| :green_square: <br> `Nearing deadline` | PTCG AI Battle Challenge Simulation | Enhance the performance of an AI Training Agent with the Pokémon Trading Card Game | [Competition Link](https://www.kaggle.com/competitions/pokemon-tcg-ai-battle/), <br> `Repo will be made public upon submission` |
-| 🟩 <br> `Currently competing` | Kaggriculture | AI battle challenge | [Competition Link](https://www.kaggle.com/competitions/kaggriculture), <br> `Repo will be made public upon submission` |
+| :green_square: <br> `Nearing deadline` | stunfisk | Submission for the Kaggle Pokemon TCG AI Battle Challenge competition | [Competition Link](https://www.kaggle.com/competitions/pokemon-tcg-ai-battle/), <br> `Repo will be made public upon submission` |
+| 🟩 <br> `Currently competing` | jeremy | Submission for the Kaggle Kaggriculture competition | [Competition Link](https://www.kaggle.com/competitions/kaggriculture), <br> `Repo will be made public upon submission` |
+
 
 ## Tech Stack & Tools
 
